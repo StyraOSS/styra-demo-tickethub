@@ -34,7 +34,7 @@ dependencies {
 	testImplementation 'org.springframework.boot:spring-boot-starter-test'
 	testRuntimeOnly 'org.junit.platform:junit-platform-launcher'
 	implementation 'jakarta.validation:jakarta.validation-api:3.1.1'
-	implementation 'jakarta.xml.bind:jakarta.xml.bind-api:4.0.2'
+	implementation 'jakarta.xml.bind:jakarta.xml.bind-api:4.0.4'
 
 	implementation group: 'com.styra', name: 'opa', version: '2.0.3'
 	implementation group: 'com.styra.opa', name: 'springboot', version: '1.0.0'
