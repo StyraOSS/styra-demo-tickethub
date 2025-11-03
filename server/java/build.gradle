@@ -36,7 +36,7 @@ dependencies {
     implementation 'org.openapitools:jackson-databind-nullable:0.2.6'
     implementation 'org.apache.httpcomponents:httpclient:4.5.14'
     implementation 'org.apache.httpcomponents:httpmime:4.5.14'
-    implementation 'com.jayway.jsonpath:json-path:2.9.0'
+    implementation 'com.jayway.jsonpath:json-path:2.10.0'
     implementation 'commons-io:commons-io:2.19.0'
 
     implementation group: 'com.styra', name: 'opa', version: '2.1.1'
