@@ -9,7 +9,7 @@
   "author": "",
   "license": "Apache-2.0",
   "devDependencies": {
-    "glob": "^10.4.1",
+    "glob": "^11.1.0",
     "serve-handler": "^6.1.5",
     "tsx": "^4.19.3",
     "typescript": "^5.4.5",
